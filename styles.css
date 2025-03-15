@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.players{
+    text-align: center;
+    margin: 250px;
+}
+
+#player-1, #player-2{
+    border:2px solid black;
+}
+
+#submit{
+    border: 2px solid black;
+    height:4vh;
+    width: 25%;
+}
+
